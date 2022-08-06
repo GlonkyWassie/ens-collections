@@ -1275,6 +1275,16 @@
 			"logo": "spanish-animals.png",
 			"csv": ["spanish-animals.csv"]
 		},
+		{
+			"name": "Novelties Club",
+			"slug": "novelties-club",
+			"description": "Fun ENS category where a highly contextual emoji replaces a letter.",
+			"twitter": "",
+			"chat": "",
+			"website": "",
+			"logo": "novelties-club.png",
+			"csv": ["novelties-club.csv"]
+		}
    ]
 }
 		
